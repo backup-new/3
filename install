@@ -100,7 +100,7 @@ service apache2 restart > /dev/null 2>&1
 clear
 echo -e "\033[1;32m PAINEL-SSH INSTALADO COM SUCESSO!"
 echo ""
-echo -e "\033[1;36m SEU PAINEL:\033[1;37m http://$IP/\033[0m"
+echo -e "\033[1;36m SEU PAINEL:\033[1;37m http://$IP/admin\033[0m"
 echo -e "\033[1;36m USUARIO:\033[1;37m admin\033[0m"
 echo -e "\033[1;36m SENHA:\033[1;37m admin\033[0m"
 echo ""
